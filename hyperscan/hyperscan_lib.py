@@ -36,7 +36,7 @@ struct hs_scratch;
 typedef struct hs_scratch hs_scratch_t;
 
 struct hs_stream;
-typedef struct hs_scratch hs_stream_t;
+typedef struct hs_stream hs_stream_t;
 
 #define HS_SUCCESS              0
 #define HS_INVALID              -1
